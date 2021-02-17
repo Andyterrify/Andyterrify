@@ -23,3 +23,8 @@ Hi 👋, I'm Andrei Vasile, a wannabe software engineer living in the UK current
 I'm currently looking for internships in **cyber security, software engineering or web development** but I'm willing to do anything, still figuring out what I want to do.
 
 Send me an email at <a href="mailto:andreibvasile@gmail.com">andreibvasile@gmail.com</a> or for anything academic <a href="mailto:bav1g20@soton.ac.uk">bav1g20@soton.ac.uk</a>
+
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Andyterrify&hide_border=true&theme=buefy&line_height=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyterrify&hide_border=true&layout=compact&theme=buefy" />
+</p>
