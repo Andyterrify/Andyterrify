@@ -7,6 +7,7 @@ Hi 👋, I'm Andrei Vasile, a wannabe software engineer living in the UK current
 <p float="left">
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-3C79AA?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 </p>
